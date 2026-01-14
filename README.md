@@ -40,10 +40,10 @@ Antes de começar, você precisará ter instalado em sua máquina as seguintes f
 
 ```bash
 # Clone este repositório
-$ git clone [https://github.com/SEU_USUARIO/portfolio-clima-python.git](https://github.com/SEU_USUARIO/portfolio-clima-python.git)
+$ git clone [https://github.com/viituux/clima-python.git](https://github.com/viituux/clima-python.git)
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd portfolio-clima-python
+$ cd clima-python
 
 # Instale as dependências
 $ pip install -r requirements.txt
